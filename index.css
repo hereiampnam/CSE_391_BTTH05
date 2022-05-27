@@ -1,0 +1,37 @@
+.container {
+    padding: 16px;
+    text-align: center;
+    background-color:cornsilk;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%; 
+  }
+.deletebtn {
+    background-color: #b50e46;
+}  
+.cancelbtn{
+    background-color: burlywood;
+}
+.Box{
+    width: 500px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    background-color:lightgray;
+    font-size: x-large;
+    text-align: center;
+}
+.modal{
+    display:none ;
+}
+button {
+    background-color: bisque;
+    padding: 20px 20px ;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+    font-size: medium;
+  }
